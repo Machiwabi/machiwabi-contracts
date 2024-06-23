@@ -2,6 +2,9 @@
 
 To realize this project, we need to create smart contracts with the following key features. We will combine the functionality of ERC721 and ERC1155 extensions to implement a point system.
 
+<img width="2249" alt="Frame 1" src="https://github.com/Machiwabi/machiwabi-contracts/assets/1862066/a250fe65-284c-4c88-b8a6-7b37bfa4aa66">
+
+
 ## MatiwabiToken721 - ERC721 Extension Smart Contract
 
 - Minting Functionality:
