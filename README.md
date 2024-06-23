@@ -24,5 +24,10 @@ To realize this project, we need to create smart contracts with the following ke
  - Sets URL, boost duration, cooldown time, and points per block for each token ID.
   - These settings can only be configured by the owner.
 
-#### testnet
+### testnet
+
+#### manta-sepolia-testnet
+https://pacific-explorer.sepolia-testnet.manta.network/address/0xf472fed0404F907dB77d3052f95ad75B317f3e07
+
+#### sepolia
 https://sepolia.etherscan.io/address/0xaf3E61dDa90956085060dce183dA0d928610D9B2
