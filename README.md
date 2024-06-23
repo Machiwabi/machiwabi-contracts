@@ -15,6 +15,12 @@ To realize this project, we need to create smart contracts with the following ke
 - MissionToken1155(ERC1155 Extension) Registration:
   - The owner can register an ERC1155 extension to be used in point calculations.
 
+#### manta-sepolia-testnet
+https://pacific-explorer.sepolia-testnet.manta.network/address/0x497b1B27540e4205B7315DEdF1B062CA4f5345cD
+
+#### sepolia
+https://sepolia.etherscan.io/address/0xE1C4FFf0B8FA1e078d253F43B8AC26aaA806d65b#code
+
 ## MissionToken1155 -  ERC1155 Extension Smart Contract
 
 - Minting Functionality:
